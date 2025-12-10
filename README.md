@@ -2,6 +2,13 @@
 
 A comprehensive repository for managing AI agent prompts that help developers write better code. This collection includes prompts for code review, bug fixing, refactoring, documentation, and language-specific best practices.
 
+## Quick Start
+
+1. **Browse Prompts**: Check the [Prompt Index](prompts/INDEX.md) to find what you need
+2. **Choose Your Task**: Select from code review, bug fixing, testing, documentation, etc.
+3. **Use with AI**: Provide the prompt to your AI assistant along with your code
+4. **See Examples**: Visit [EXAMPLES.md](EXAMPLES.md) for practical usage examples
+
 ## Overview
 
 This repository provides structured prompts for AI agents to assist with various coding tasks. Each prompt is designed to guide AI agents in helping developers with specific programming challenges.
@@ -70,6 +77,8 @@ prompts/
 Use the prompt from prompts/general/code-review.md to review this code:
 [Your code here]
 ```
+
+For more detailed examples and use cases, see [EXAMPLES.md](EXAMPLES.md)
 
 ## Contributing
 
